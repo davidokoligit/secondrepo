@@ -1,0 +1,15 @@
+.bg-maroon{
+    background-color: maroon;
+}
+
+body {
+    background-image: url("../numerotwo/nfour.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+   }
+   
+.btn-danger{background: maroon; }
+
+.btn-secondary {background: white;
+color: maroon;}
